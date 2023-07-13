@@ -1,0 +1,1 @@
+["avance", "recule", {"active": "hélice"}, "avance", "avance", "avance", {"désactive": "hélice"}, {"répète":  [3, "recule"]}, {"répète":  [3, "avance"]}, {"tourne": "gauche"}, {"répète":  [4, "avance"]}]
